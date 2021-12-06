@@ -1,0 +1,10 @@
+
+git branch prueba (crear branch)
+git checkout prueba (cambiar a otra branch)
+git branch --list (ver lista de branch)
+git push --set-upstream origin prueba (push cambios a la rama prueba)
+git add . (agregar todos los cambios)
+git commit -m "prueba 2" (guardar cambios)
+git config --global user.name "your_username"
+
+git config --global user.email "your_email_address@example.com"
